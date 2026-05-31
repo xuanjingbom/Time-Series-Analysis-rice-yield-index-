@@ -8,9 +8,10 @@ The objective is to extract insights from temporal data and evaluate its charact
 
 ## Tools Used
 
-* Python
-* Pandas
-* Matplotlib
+* R
+* Time Series Regression Model
+* Forecasting
+* Volatility Check
 * Time Series Analysis
 
 ## Files
