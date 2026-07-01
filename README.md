@@ -18,7 +18,7 @@ The objective is to extract insights from temporal data and evaluate its charact
 
 * DSC2304093_DSC2302025.pdf (Final Report)
 * MAT315 Description of Project.pdf
-* TS Project.R
+* TS Project Full Code.R
 * rice_yield_D.csv
 
 ## Key Skills Demonstrated
